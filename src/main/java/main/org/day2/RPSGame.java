@@ -7,7 +7,7 @@ public class RPSGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("가위, 바위, 보 중 하나를 입력해주세요.");
+        System.out.print("가위, 바위, 보 중 하나를 입력해주세요: ");
         String user = scanner.nextLine();
         int userValue;
 
@@ -37,17 +37,17 @@ public class RPSGame {
         System.out.println("유저: " + user);
         System.out.println("컴퓨터: " + com);
 
-        userValue = userValue < comValue ? userValue + 3 : comValue;
+        userValue = userValue < comValue ? userValue + 3 : userValue;
 
         switch(userValue - comValue) {
             case 0:
                 System.out.println("비겼습니다.");
                 break;
             case 1:
-                System.out.println("당신이 졌습니다.");
+                System.out.println("당신이 이겼습니다.");
                 break;
             case 2:
-                System.out.println("당신이 이겼습니다.");
+                System.out.println("당신이 졌습니다.");
                 break;
         }
 
