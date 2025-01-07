@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e65231a-e393-4377-9651-e93cc6122a92" name="Changes" comment="Feat: 자바 2일차 (제어문)" />
+    <list default="true" id="8e65231a-e393-4377-9651-e93cc6122a92" name="Changes" comment="Feat: 자바 2일차 (제어문)">
+      <change beforePath="$PROJECT_DIR$/SpharosAcademy" beforeDir="false" afterPath="$PROJECT_DIR$/SpharosAcademy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -215,6 +218,7 @@
       <workItem from="1736209062151" duration="841000" />
       <workItem from="1736211360052" duration="1522000" />
       <workItem from="1736213675456" duration="157000" />
+      <workItem from="1736215178458" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="Feat. 자바 1일차">
       <option name="closed" value="true" />
