@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e65231a-e393-4377-9651-e93cc6122a92" name="Changes" comment="Feat: 자바 2일차 (제어문)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OhSoomin812&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1736090522" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1736090385" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a1c002c3-8cf2-4834-b011-8a52d70f783f" />
+        <option name="url" value="https://github.com/OhSoomin812/SpharosAcademy.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2r68vPWzSuPnUyzE4uW2p2UoWB9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Spharos Academy/day1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Spharos Academy/day1/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CalculatorForYou2">
+    <configuration name="CalculatorForYou2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.day2.CalculatorForYou2" />
+      <module name="day1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.day2.NestedLoop" />
+      <module name="day1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPSGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.day2.RPSGame" />
+      <module name="day1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPSGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.day2.RPSGame2" />
+      <module name="day1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.day2.TemperatureConverter" />
+      <module name="day1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatorForYou2" />
+        <item itemvalue="Application.RPSGame" />
+        <item itemvalue="Application.RPSGame2" />
+        <item itemvalue="Application.TemperatureConverter" />
+        <item itemvalue="Application.NestedLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e65231a-e393-4377-9651-e93cc6122a92" name="Changes" comment="" />
+      <created>1735868396855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735868396855</updated>
+      <workItem from="1735868397867" duration="5294000" />
+      <workItem from="1735881214825" duration="76000" />
+      <workItem from="1735881304996" duration="6339000" />
+      <workItem from="1736087408402" duration="1719000" />
+      <workItem from="1736089187068" duration="151000" />
+      <workItem from="1736089354077" duration="149000" />
+      <workItem from="1736089617326" duration="1527000" />
+      <workItem from="1736125333362" duration="18226000" />
+      <workItem from="1736209062151" duration="841000" />
+      <workItem from="1736211360052" duration="1522000" />
+      <workItem from="1736213675456" duration="157000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feat. 자바 1일차">
+      <option name="closed" value="true" />
+      <created>1736088848795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736088848795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feat: 자바 1일차&#10;&#10;Body: 데이터 타입과 객체 지향, 배열">
+      <option name="closed" value="true" />
+      <created>1736090987015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736090987015</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feat: 자바 2일차&#10;&#10;Body: 제어문(If, Switch)">
+      <option name="closed" value="true" />
+      <created>1736130869519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736130869519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactor: 패키지 수정">
+      <option name="closed" value="true" />
+      <created>1736131641303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736131641303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feat: 자바 2일차 (제어문)">
+      <option name="closed" value="true" />
+      <created>1736149902743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736149902743</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feat: 자바 2일차 (제어문)&#10;&#10;Body : BufferedReader">
+      <option name="closed" value="true" />
+      <created>1736149936100</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736149936100</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feat: 자바 2일차 (제어문)">
+      <option name="closed" value="true" />
+      <created>1736149964350</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736149964350</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feat: 자바 2일차&#10;&#10;Body: Scanner">
+      <option name="closed" value="true" />
+      <created>1736150055733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736150055733</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feat: 자바 2일차&#10;&#10;Body: .equals">
+      <option name="closed" value="true" />
+      <created>1736150078860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736150078860</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Feat: 자바 2일차 (제어문)">
+      <option name="closed" value="true" />
+      <created>1736213286356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736213286356</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat. 자바 1일차" />
+    <MESSAGE value="Feat: 자바 1일차&#10;&#10;Body: 데이터 타입과 객체 지향, 배열" />
+    <MESSAGE value="Feat: 자바 2일차&#10;&#10;Body: 제어문(If, Switch)" />
+    <MESSAGE value="Refactor: 패키지 수정" />
+    <MESSAGE value="Feat: 자바 2일차 (제어문)&#10;&#10;Body : BufferedReader" />
+    <MESSAGE value="Feat: 자바 2일차&#10;&#10;Body: Scanner" />
+    <MESSAGE value="Feat: 자바 2일차&#10;&#10;Body: .equals" />
+    <MESSAGE value="Feat: 자바 2일차 (제어문)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: 자바 2일차 (제어문)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
