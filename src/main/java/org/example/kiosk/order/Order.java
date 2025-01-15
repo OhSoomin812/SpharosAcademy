@@ -1,6 +1,7 @@
 package org.example.kiosk.order;
 
 import lombok.Getter;
+import lombok.Setter;
 import lombok.ToString;
 
 import java.util.ArrayList;
@@ -8,6 +9,7 @@ import java.util.ArrayList;
 // 조회 필요할 경우 Getter
 @Getter
 @ToString
+@Setter
 public class Order {
 
     private int ono;    // 주문 번호

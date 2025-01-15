@@ -12,8 +12,11 @@ public enum CardDeck {
     private CardDeck() {
         cards = new ArrayList<>();
 
-        for (int i = 1; i <= 48; i++) {
-            cards.add(new Card(CardPattern.CLO, i));
+        for (CardPattern pattern : CardPattern.values()) {
+
+            for (int i = 1; i <= 48; i++) {
+                cards.add(new Card(pattern, i));
+            }
         }
 
         Collections.shuffle(cards);
