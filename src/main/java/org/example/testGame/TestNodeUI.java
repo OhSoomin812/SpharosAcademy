@@ -4,20 +4,16 @@ import java.util.Scanner;
 
 public class TestNodeUI {
 
-    private Scanner scanner = new Scanner(System.in);
+    private final Scanner scanner = new Scanner(System.in);
 
 
     public void startTest() {
-        // 첫질문
-        TestNode firstQuestion = TestNodeService.INSTANCE.getFirstQuestion();
-        if(firstQuestion == null) {
+        TestNode currentNode = (TestNodeService.INSTANCE.getFirstQuestion());
+
+        if (currentNode == null) {
             System.out.println("테스트가 초기화되지 않았습니다.");
             return;
         }
-        runTest(firstQuestion);
-    }
-
-    public void runTest(TestNode currentNode) {
 
         while (currentNode != null) {
             if (currentNode.result != null) {
@@ -39,4 +35,5 @@ public class TestNodeUI {
             }
         }
     }
+
 }
